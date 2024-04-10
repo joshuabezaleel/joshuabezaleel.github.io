@@ -4,3 +4,11 @@
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
 title = ""
 +++
+
+#### 2024-10-04
+
+> we all are the amalgamation of all beings we've met throughout our life, and I think that's beautiful
+
+#### 2023-xx-xx
+
+> on to the tenderness of computation

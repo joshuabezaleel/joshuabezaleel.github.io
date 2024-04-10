@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 21:57:28 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 Year in Infrastructure</title>
+      <link>http://localhost:1313/1-year-in-infrastructure/</link>
+      <pubDate>Wed, 10 Apr 2024 21:57:28 +0700</pubDate>
+      <guid>http://localhost:1313/1-year-in-infrastructure/</guid>
+      <description>This is a page about »1 Year in Infrastructure«.</description>
+    </item>
     <item>
       <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/markdown-syntax-guide/</link>

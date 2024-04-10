@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 21:57:28 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 Year in Infrastructure</title>
+      <link>http://localhost:1313/1-year-in-infrastructure/</link>
+      <pubDate>Wed, 10 Apr 2024 21:57:28 +0700</pubDate>
+      <guid>http://localhost:1313/1-year-in-infrastructure/</guid>
+      <description>This is a page about »1 Year in Infrastructure«.</description>
+    </item>
     <item>
       <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/markdown-syntax-guide/</link>
@@ -21,7 +28,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>About content.</description>
+      <description>Professional I am currently working on {platform,system,infrastructure,devops,cloud,devex,sre} engineering at GoTo Financial on the Developer Experience and Developer Tooling team as part of the Infrastructure Engineering department.&#xA;What the specific team is working on can be seen on the press writeup here and also accessible in these following talks:&#xA;KubeCon NA 2021 [link] KubeCon NA 2023 [link] KubeDay Singapore 2023 [link] In the past, I used to contribute to open-source projects like google/go-github and CNCF&amp;rsquo;s Porter or dabble in side project on distributed system.</description>
     </item>
   </channel>
 </rss>
