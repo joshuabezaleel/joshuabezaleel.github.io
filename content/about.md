@@ -18,3 +18,8 @@ In the past, I used to contribute to open-source projects like [google/go-github
 ## Personal
 
 I am easily fascinated and I find many things around us beautiful but I was kind of sure that many people have poured much more time to those various things so I am not sure about listing them out. Maybe next time.
+
+## Links
+
+- GitHub [[link](https://github.com/joshuabezaleel)]
+- Curius [[link](https://curius.app/joshua-abednego)]

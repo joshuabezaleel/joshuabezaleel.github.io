@@ -28,7 +28,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Professional I am currently working on {platform,system,infrastructure,devops,cloud,devex,sre} engineering at GoTo Financial on the Developer Experience and Developer Tooling team as part of the Infrastructure Engineering department.&#xA;What the specific team is working on can be seen on the press writeup here and also accessible in these following talks:&#xA;KubeCon NA 2021 [link] KubeCon NA 2023 [link] KubeDay Singapore 2023 [link] In the past, I used to contribute to open-source projects like google/go-github and CNCF&amp;rsquo;s Porter or dabble in side project on distributed system or other [1].</description>
+      <description>Professional I am currently working on {platform,system,infrastructure,devops,cloud,devex,sre} engineering at GoTo Financial on the Developer Experience and Developer Tooling team as part of the Infrastructure Engineering department.&#xA;What the specific team is working on can be read on the press writeup here and also accessible in these following talks:&#xA;KubeCon NA 2021 [link] KubeCon NA 2023 [link] KubeDay Singapore 2023 [link] In the past, I used to contribute to open-source projects like google/go-github, CNCF&amp;rsquo;s Porter, or mattermost/mattermost-server, dabbled in side project on distributed system [1, 2] or other [1], or ran communities [1, 2].</description>
     </item>
   </channel>
 </rss>
