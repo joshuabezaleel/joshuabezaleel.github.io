@@ -12,3 +12,7 @@ title = ""
 #### 2023-xx-xx
 
 > on to the tenderness of computation
+
+#### 2023-xx-xx
+
+> a sense of wander nurture a sense of wonder
