@@ -7,7 +7,7 @@ title = ""
 
 #### 2024-10-04
 
-> we all are the amalgamation of all beings we've met throughout our life, and I think that's beautiful
+> we are the aggregates of all beings we've met throughout our life and I think that's beautiful
 
 #### 2023-xx-xx
 
