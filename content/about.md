@@ -21,6 +21,6 @@ I am easily fascinated and I find many things around us beautiful but I think ma
 
 ## Links
 
+- Twitter [[link](https://twitter.com/joshuabezaleel)]
 - GitHub [[link](https://github.com/joshuabezaleel)]
 - Curius [[link](https://curius.app/joshua-abednego)]
-- Twitter [[link](https://twitter.com/joshuabezaleel)]
