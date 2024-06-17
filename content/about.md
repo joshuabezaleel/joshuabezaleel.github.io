@@ -7,7 +7,7 @@ menu = "main"
 
 I am currently working on {platform,system,infrastructure,devops,cloud,devex,sre} engineering at [GoTo Financial](https://www.gotocompany.com/en/products/goto-financial) on the Developer Experience and Developer Tooling team as part of the Infrastructure Engineering department. 
 
-What the team is working on is written on [this](https://www.thejakartapost.com/adv-longform/2022/06/16/gopay-sh-a-glimpse-into-indonesias-leading-e-wallet-gopays-developer-experience.html) press writeup and accessible in these following talks:
+What the team is working on is written on [this press writeup](https://www.thejakartapost.com/adv-longform/2022/06/16/gopay-sh-a-glimpse-into-indonesias-leading-e-wallet-gopays-developer-experience.html) and accessible in these following talks:
 - KubeCon North America 2021 [[link](https://www.youtube.com/watch?v=OE1Qujq51nM&pp=ygUUa3ViZWNvbiBnaXJpIGt1bmNvcm8%3D)]
 - KubeCon North America 2023 [[link](https://www.youtube.com/watch?v=19vx14_Z4sw&pp=ygUfa3ViZWNvbiBuYSAyMyBidWlsZGluZywgc2NhbGluZw%3D%3D
 )]
