@@ -10,3 +10,4 @@ date = "2024-05-13"
 tags = ["software","team","management"]
 +++
 
+Content placeholder
