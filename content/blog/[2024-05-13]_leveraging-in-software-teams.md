@@ -1,5 +1,5 @@
 +++
-title = Leveraging in Software Team"
+title = "Leveraging in Software Team"
 date = "2024-05-13"
 
 #
@@ -9,5 +9,3 @@ date = "2024-05-13"
 
 tags = ["software","team","management"]
 +++
-
-Content placeholder

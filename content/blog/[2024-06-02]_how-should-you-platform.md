@@ -1,5 +1,5 @@
 +++
-title = How should you platform"
+title = "How should you platform"
 date = "2024-05-13"
 
 #
