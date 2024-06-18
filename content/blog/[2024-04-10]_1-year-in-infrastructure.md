@@ -1,6 +1,6 @@
 +++
 title = "1 Year in Infrastructure"
-date = "2024-04-10T21:57:28+07:00"
+date = "2024-04-10"
 
 #
 # A reflection of a year working in infrastructure
@@ -10,7 +10,15 @@ date = "2024-04-10T21:57:28+07:00"
 tags = ["software","infrastructure","sre","platform"]
 +++
 
-It wasn't actually an intentional plan to join this team, as if I wanted to pivot into the infrastructure field. At that time, I felt stuck, thinking that I wouldn't be able to grow better than where I was. Then I remembered I knew a senior back in my university from the infrastructure community, which turns out had a vacancy on their team. I was sure that I wouldn't be able to get accepted in the team since there are a lot of people that I look up to. They are known, they have a voice, and they give back to the community, but above all, I knew they are kind, decent human being. Hence, I tried to make the leap of faith.
+// TODO: ubah narasinya jadi (1) mau pindah ke platform team tapi di-defer dan (2) alasan mau pindah ke platform team: (a) enable biar bisa lebih deket ke hal2 teknis, dan (b) lebih deket ke user. also joy of building, dan lebih menyenangkan lagi kalau bisa enabling orang buat itu. 
+
+Back in my previous company, I felt stuck. It's not my intention to point fingers but I was in a team where there were various features being built that it wasn't used even once after being pushed to production, more so because it was an internal tooling team expected to be used by other operations coworkers so I thought that this kind of problem should have a lesser chance to exist in the first place since the user is nearer to us. 
+
+A team was then being created called the platform team with the main users of other engineers to help increasing the efficiency of the engineering flow. I applied to the team, going through the usual team-transfer flow, present project and alike, being interviewed, and got accepted. I felt thrilled since it has been a passion of mine to work in developer {tooling,efficiency,productivity} since I think that it (1) would be able to expose me to a more fun and exciting technical challenges and (2) the feedback loop is much faster and we're nearer to our users since it would be the other engineers that we interact on a daily basis, and also it's much easier for us to even dogfood what we're building ourselves. Even more, I believe lots of us enjoy being in the engineering role for the enjoyment of building things from scratch and to enable people in achieving that easier, for me it doubles the fun. 
+
+Unfortunately, because of the company's situation, the team had to pause recruiting more members. 
+
+Then I remembered I knew a senior back in my university from the Kubernetes community. The initial intention was to just a coffee chat to at least have someone to talk with about me feeling stuck but turns out he had a vacancy on his team. I was sure that I wouldn't be able to get accepted in the team since there are a lot of people that I look up to. They are known, they have a voice, and they give back to the community, but above all, I knew they are kind, decent human being. Hence, I tried to make the leap of faith.
 
 Fast forward a year (and a half, actually, since I joined on November 2022) from then. As someone who was thinking to start their career in non-engineering roles because he just wasn't born with the technical skill - which I finally did simply just because I don't want to die with what ifs - I would've never imagined I could say to myself that I am enjoying what I am working on a daily basis.
 
