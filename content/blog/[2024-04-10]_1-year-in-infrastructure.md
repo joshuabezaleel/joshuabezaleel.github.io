@@ -10,8 +10,6 @@ date = "2024-04-10"
 tags = ["software","infrastructure","sre","platform"]
 +++
 
-// TODO: ubah narasinya jadi (1) mau pindah ke platform team tapi di-defer dan (2) alasan mau pindah ke platform team: (a) enable biar bisa lebih deket ke hal2 teknis, dan (b) lebih deket ke user. also joy of building, dan lebih menyenangkan lagi kalau bisa enabling orang buat itu. 
-
 Back in my previous company, I felt stuck. It's not my intention to point fingers but I was in a team where there were various features being built that it wasn't used even once after being pushed to production, more so because it was an internal tooling team expected to be used by other operations coworkers so I thought that this kind of problem should have a lesser chance to exist in the first place since the user is nearer to us. 
 
 A team was then being created called the platform team with the main users of other engineers to help increasing the efficiency of the engineering flow. I applied to the team, going through the usual team-transfer flow, present project and alike, being interviewed, and got accepted. I felt thrilled since it has been a passion of mine to work in developer {tooling,efficiency,productivity} since I think that it (1) would be able to expose me to a more fun and exciting technical challenges and (2) the feedback loop is much faster and we're nearer to our users since it would be the other engineers that we interact on a daily basis, and also it's much easier for us to even dogfood what we're building ourselves. Even more, I believe lots of us enjoy being in the engineering role for the enjoyment of building things from scratch and to enable people in achieving that easier, for me it doubles the fun. 
