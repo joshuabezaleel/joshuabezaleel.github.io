@@ -1,6 +1,6 @@
 +++
 title = "How should you platform"
-date = "2024-05-13"
+date = "2024-06-02"
 
 #
 # Leveraging in software teams
