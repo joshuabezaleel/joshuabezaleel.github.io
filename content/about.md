@@ -17,7 +17,7 @@ In the past, I used to contribute to open-source projects like [google/go-github
 
 ## Personal
 
-I am easily fascinated and I find many things around us beautiful but I think many people have poured much more time to those various things so I am not sure about listing them out. Maybe I'll tell about them in detail next time.
+I am easily fascinated and I find many things around us beautiful but I think many people have poured much more time to those various things so I am not sure about listing them out. Maybe I'll tell about them in detail next time. Few things that I already knew I like to blow some steam off are karaoke and running (more like jogging though at this pace).
 
 ## Links
 
