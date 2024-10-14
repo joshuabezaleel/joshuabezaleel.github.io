@@ -1,5 +1,5 @@
 +++
-title = "Kubeday Singapore 2023"
+title = "KubeDay Singapore 2023"
 date = "2024-10-14T17:15:03+07:00"
 
 #

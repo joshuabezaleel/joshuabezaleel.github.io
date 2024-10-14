@@ -1,5 +1,5 @@
 +++
-title = "Kubecon North America 2023"
+title = "KubeCon North America 2023"
 date = "2024-10-05"
 
 #
