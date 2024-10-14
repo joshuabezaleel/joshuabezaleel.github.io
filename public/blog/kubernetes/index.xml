@@ -10,21 +10,21 @@
     <lastBuildDate>Mon, 14 Oct 2024 17:16:03 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kubeday Australia 2024</title>
+      <title>KubeDay Australia 2024</title>
       <link>http://localhost:1313/kubeday-australia-2024/</link>
       <pubDate>Mon, 14 Oct 2024 17:16:03 +0700</pubDate>
       <guid>http://localhost:1313/kubeday-australia-2024/</guid>
-      <description>DevOps and operations, SRE, Platform&#xA;Cindy Sridharan - Everyone is not Ops [link] Matt Klein - Human Scalability of DevOps link Alex Hidalgo, Andrew Clay Shafer - Hell is Other Platforms link Tanya Reilly - Being Glue link Lorin Hochstein - Making Operational Work More Visible link Infrastructure engineering&#xA;Will Larson - How to Invest in Technical Infrastructure link Will Larson - Product Management in Infrastructure Engineering link Platform Engineering</description>
+      <description>DevOps and operations, SRE, platform Cindy Sridharan - Everyone is not Ops [link] Matt Klein - Human Scalability of DevOps [link] Alex Hidalgo, Andrew Clay Shafer - Hell is Other Platforms [link] Tanya Reilly - Being Glue [link] Lorin Hochstein - Making Operational Work More Visible [link] Infrastructure engineering Will Larson - How to Invest in Technical Infrastructure [link] Will Larson - Product Management in Infrastructure Engineering [link] Platform engineering Charity Majors - Perils, Pitfals, and Pratfalls of Platform Engineering [link] Camille Fournier - Product for Internal Platforms [link] Galo Navaro - How to Build a PaaS for 1500 Engineers [link] Developer experience, developer productivity, and developer tools Peter Seibel - Let A 1000 Flowers Bloom.</description>
     </item>
     <item>
-      <title>Kubeday Singapore 2023</title>
+      <title>KubeDay Singapore 2023</title>
       <link>http://localhost:1313/kubeday-singapore-2023/</link>
       <pubDate>Mon, 14 Oct 2024 17:15:03 +0700</pubDate>
       <guid>http://localhost:1313/kubeday-singapore-2023/</guid>
       <description>TBA</description>
     </item>
     <item>
-      <title>Kubecon North America 2023</title>
+      <title>KubeCon North America 2023</title>
       <link>http://localhost:1313/kubecon-north-america-2023/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kubecon-north-america-2023/</guid>
