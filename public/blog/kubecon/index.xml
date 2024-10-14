@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubecon on Joshua Bezaleel Abednego</title>
+    <link>http://localhost:1313/blog/kubecon/</link>
+    <description>Recent content in Kubecon on Joshua Bezaleel Abednego</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/kubecon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubecon North America 2023</title>
+      <link>http://localhost:1313/kubecon-north-america-2023/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kubecon-north-america-2023/</guid>
+      <description>TBA</description>
+    </item>
+  </channel>
+</rss>

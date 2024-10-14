@@ -3,19 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-10T21:57:28+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/1-year-in-infrastructure/</loc>
-    <lastmod>2024-04-10T21:57:28+07:00</lastmod>
+    <lastmod>2024-10-14T17:16:03+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-04-10T21:57:28+07:00</lastmod>
+    <lastmod>2024-10-14T17:16:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/community/</loc>
+    <lastmod>2024-10-14T17:16:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/kubeday/</loc>
+    <lastmod>2024-10-14T17:16:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kubeday-australia-2024/</loc>
+    <lastmod>2024-10-14T17:16:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/kubernetes/</loc>
+    <lastmod>2024-10-14T17:16:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/platform/</loc>
+    <lastmod>2024-10-14T17:16:03+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/infrastructure/</loc>
-    <lastmod>2024-04-10T21:57:28+07:00</lastmod>
+    <lastmod>2024-10-14T17:15:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kubeday-singapore-2023/</loc>
+    <lastmod>2024-10-14T17:15:03+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/kubecon/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kubecon-north-america-2023/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/bootcamp/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/devops/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/teaching-internal-devops-bootcamp/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-might-you-platform/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/software/</loc>
-    <lastmod>2024-04-10T21:57:28+07:00</lastmod>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/platform-why-now/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/sre/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/leveraging-in-software-team/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/management/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/team/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/1-year-in-infrastructure-and-developer-toolingefficiencyproductivity/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/markdown/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>

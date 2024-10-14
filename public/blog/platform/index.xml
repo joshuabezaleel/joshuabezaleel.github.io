@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Joshua Bezaleel Abednego</title>
-    <link>http://localhost:1313/blog/software/</link>
-    <description>Recent content in Software on Joshua Bezaleel Abednego</description>
+    <title>Platform on Joshua Bezaleel Abednego</title>
+    <link>http://localhost:1313/blog/platform/</link>
+    <description>Recent content in Platform on Joshua Bezaleel Abednego</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 17:16:03 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/platform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubeday Australia 2024</title>
+      <link>http://localhost:1313/kubeday-australia-2024/</link>
+      <pubDate>Mon, 14 Oct 2024 17:16:03 +0700</pubDate>
+      <guid>http://localhost:1313/kubeday-australia-2024/</guid>
+      <description>DevOps and operations, SRE, Platform&#xA;Cindy Sridharan - Everyone is not Ops [link] Matt Klein - Human Scalability of DevOps link Alex Hidalgo, Andrew Clay Shafer - Hell is Other Platforms link Tanya Reilly - Being Glue link Lorin Hochstein - Making Operational Work More Visible link Infrastructure engineering&#xA;Will Larson - How to Invest in Technical Infrastructure link Will Larson - Product Management in Infrastructure Engineering link Platform Engineering</description>
+    </item>
     <item>
       <title>How might you platform</title>
       <link>http://localhost:1313/how-might-you-platform/</link>
@@ -22,13 +29,6 @@
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/platform-why-now/</guid>
       <description>Platform engineering has taken the infrastructure community by the storm in the recent days. Various talks on the recent KubeCons are mostly all about platform, on par with talks on AI. And as all hype should be, I am usually on the more skeptic side and I believe we should&amp;rsquo;ve taken them more objectively, not as is. Even though that I am currently working on the infrastructure and platform on day-to-day basis, I can really understand the POV of the people that are skeptic on this one and I believe that both gave really good perspectives on their corresponding point of views so it results in a healthy discussion in the community.</description>
-    </item>
-    <item>
-      <title>Leveraging in Software Team</title>
-      <link>http://localhost:1313/leveraging-in-software-team/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/leveraging-in-software-team/</guid>
-      <description>All the best people that I had pleasure working with on my professional journey both have the same characteristic.&#xA;They leverage/support/sponsor others from where they&amp;rsquo;re positioned. This position that I am referring to apply to both level-wise (managerial (manager, director), or even Individual Contributor (architect)), or role-wise (QA, product manager, designer, engineer, SRE).&#xA;There are various occasion that prompt me to write about this one but it was definitely the great coworkers around me that I am grateful of.</description>
     </item>
     <item>
       <title>1 Year in Infrastructure and Developer {Tooling,Efficiency,Productivity}</title>

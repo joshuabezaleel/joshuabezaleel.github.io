@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Management on Joshua Bezaleel Abednego</title>
+    <link>http://localhost:1313/blog/management/</link>
+    <description>Recent content in Management on Joshua Bezaleel Abednego</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging in Software Team</title>
+      <link>http://localhost:1313/leveraging-in-software-team/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/leveraging-in-software-team/</guid>
+      <description>All the best people that I had pleasure working with on my professional journey both have the same characteristic.&#xA;They leverage/support/sponsor others from where they&amp;rsquo;re positioned. This position that I am referring to apply to both level-wise (managerial (manager, director), or even Individual Contributor (architect)), or role-wise (QA, product manager, designer, engineer, SRE).&#xA;There are various occasion that prompt me to write about this one but it was definitely the great coworkers around me that I am grateful of.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Joshua Bezaleel Abednego</title>
-    <link>http://localhost:1313/blog/software/</link>
-    <description>Recent content in Software on Joshua Bezaleel Abednego</description>
+    <title>Sre on Joshua Bezaleel Abednego</title>
+    <link>http://localhost:1313/blog/sre/</link>
+    <description>Recent content in Sre on Joshua Bezaleel Abednego</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/software/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How might you platform</title>
-      <link>http://localhost:1313/how-might-you-platform/</link>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-might-you-platform/</guid>
-      <description>This is some observation that I got on the practices that either infrastructure people that is going to start the journey in platform engineering or for people that have been practicing for a while that is looking for some lesson-learned from other companies. Will keep this list alive for a while in case there are new ones that I got.&#xA;Proper width of abstraction&#xA;Premature optimization is the root of all evil.</description>
-    </item>
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/sre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Platform: why now?</title>
       <link>http://localhost:1313/platform-why-now/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/platform-why-now/</guid>
       <description>Platform engineering has taken the infrastructure community by the storm in the recent days. Various talks on the recent KubeCons are mostly all about platform, on par with talks on AI. And as all hype should be, I am usually on the more skeptic side and I believe we should&amp;rsquo;ve taken them more objectively, not as is. Even though that I am currently working on the infrastructure and platform on day-to-day basis, I can really understand the POV of the people that are skeptic on this one and I believe that both gave really good perspectives on their corresponding point of views so it results in a healthy discussion in the community.</description>
-    </item>
-    <item>
-      <title>Leveraging in Software Team</title>
-      <link>http://localhost:1313/leveraging-in-software-team/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/leveraging-in-software-team/</guid>
-      <description>All the best people that I had pleasure working with on my professional journey both have the same characteristic.&#xA;They leverage/support/sponsor others from where they&amp;rsquo;re positioned. This position that I am referring to apply to both level-wise (managerial (manager, director), or even Individual Contributor (architect)), or role-wise (QA, product manager, designer, engineer, SRE).&#xA;There are various occasion that prompt me to write about this one but it was definitely the great coworkers around me that I am grateful of.</description>
     </item>
     <item>
       <title>1 Year in Infrastructure and Developer {Tooling,Efficiency,Productivity}</title>

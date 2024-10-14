@@ -7,14 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Wed, 10 Apr 2024 21:57:28 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 17:15:03 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/infrastructure/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1 Year in Infrastructure</title>
-      <link>http://localhost:1313/1-year-in-infrastructure/</link>
-      <pubDate>Wed, 10 Apr 2024 21:57:28 +0700</pubDate>
-      <guid>http://localhost:1313/1-year-in-infrastructure/</guid>
-      <description>This is a page about »1 Year in Infrastructure«.</description>
+      <title>Kubeday Singapore 2023</title>
+      <link>http://localhost:1313/kubeday-singapore-2023/</link>
+      <pubDate>Mon, 14 Oct 2024 17:15:03 +0700</pubDate>
+      <guid>http://localhost:1313/kubeday-singapore-2023/</guid>
+      <description>TBA</description>
+    </item>
+    <item>
+      <title>Kubecon North America 2023</title>
+      <link>http://localhost:1313/kubecon-north-america-2023/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kubecon-north-america-2023/</guid>
+      <description>TBA</description>
+    </item>
+    <item>
+      <title>Teaching Internal Devops Bootcamp</title>
+      <link>http://localhost:1313/teaching-internal-devops-bootcamp/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching-internal-devops-bootcamp/</guid>
+      <description>TBA</description>
+    </item>
+    <item>
+      <title>1 Year in Infrastructure and Developer {Tooling,Efficiency,Productivity}</title>
+      <link>http://localhost:1313/1-year-in-infrastructure-and-developer-toolingefficiencyproductivity/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/1-year-in-infrastructure-and-developer-toolingefficiencyproductivity/</guid>
+      <description>Back in my previous company, I felt stuck. I was in a team where there were various features being built that it wasn&amp;rsquo;t used even once after being pushed to production, and I think it&amp;rsquo;s on the weirder case since it was an internal tooling team expected to be used by other operations coworkers so I thought that this kind of problem should have a lesser chance to exist in the first place because we are in the closer proximity to the users.</description>
     </item>
   </channel>
 </rss>

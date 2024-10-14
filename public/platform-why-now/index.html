@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://localhost:1313/images/favicon.png" />
+<title>Platform: why now? | Joshua Bezaleel Abednego</title>
+<meta name="title" content="Platform: why now?" />
+<meta name="description" content="Platform engineering has taken the infrastructure community by the storm in the recent days. Various talks on the recent KubeCons are mostly all about platform, on par with talks on AI. And as all hype should be, I am usually on the more skeptic side and I believe we should&rsquo;ve taken them more objectively, not as is. Even though that I am currently working on the infrastructure and platform on day-to-day basis, I can really understand the POV of the people that are skeptic on this one and I believe that both gave really good perspectives on their corresponding point of views so it results in a healthy discussion in the community." />
+<meta name="keywords" content="software,devops,sre,platform," />
+
+
+<meta property="og:title" content="Platform: why now?" />
+<meta property="og:description" content="Platform engineering has taken the infrastructure community by the storm in the recent days. Various talks on the recent KubeCons are mostly all about platform, on par with talks on AI. And as all hype should be, I am usually on the more skeptic side and I believe we should&rsquo;ve taken them more objectively, not as is. Even though that I am currently working on the infrastructure and platform on day-to-day basis, I can really understand the POV of the people that are skeptic on this one and I believe that both gave really good perspectives on their corresponding point of views so it results in a healthy discussion in the community." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/platform-why-now/" /><meta property="og:image" content="http://localhost:1313/images/share.png" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2024-05-27T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-05-27T00:00:00+00:00" /><meta property="og:site_name" content="Joshua Bezaleel Abednego" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/images/share.png" /><meta name="twitter:title" content="Platform: why now?"/>
+<meta name="twitter:description" content="Platform engineering has taken the infrastructure community by the storm in the recent days. Various talks on the recent KubeCons are mostly all about platform, on par with talks on AI. And as all hype should be, I am usually on the more skeptic side and I believe we should&rsquo;ve taken them more objectively, not as is. Even though that I am currently working on the infrastructure and platform on day-to-day basis, I can really understand the POV of the people that are skeptic on this one and I believe that both gave really good perspectives on their corresponding point of views so it results in a healthy discussion in the community."/>
+
+
+
+<meta itemprop="name" content="Platform: why now?">
+<meta itemprop="description" content="Platform engineering has taken the infrastructure community by the storm in the recent days. Various talks on the recent KubeCons are mostly all about platform, on par with talks on AI. And as all hype should be, I am usually on the more skeptic side and I believe we should&rsquo;ve taken them more objectively, not as is. Even though that I am currently working on the infrastructure and platform on day-to-day basis, I can really understand the POV of the people that are skeptic on this one and I believe that both gave really good perspectives on their corresponding point of views so it results in a healthy discussion in the community."><meta itemprop="datePublished" content="2024-05-27T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2024-05-27T00:00:00+00:00" />
+<meta itemprop="wordCount" content="591"><meta itemprop="image" content="http://localhost:1313/images/share.png" />
+<meta itemprop="keywords" content="software,devops,sre,platform," />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header><a href="/" class="title">
+  <h2>Joshua Bezaleel Abednego</h2>
+</a>
+<nav><a href="/">Home</a>
+
+<a href="/about/">About</a>
+
+
+<a href="/blog">Blog</a>
+
+</nav>
+</header>
+  <main>
+
+<h1>Platform: why now?</h1>
+<p>
+  <i>
+    <time datetime='2024-05-27' pubdate>
+      27 May, 2024
+    </time>
+  </i>
+</p>
+
+<content>
+  <p>Platform engineering has taken the infrastructure community by the storm in the recent days. Various talks on the recent KubeCons are mostly all about platform, on par with talks on AI. And as all hype should be, I am usually on the more skeptic side and I believe we should&rsquo;ve taken them more objectively, not as is. Even though that I am currently working on the infrastructure and platform on day-to-day basis, I can really understand the POV of the people that are skeptic on this one and I believe that both gave really good perspectives on their corresponding point of views so it results in a healthy discussion in the community. One of the best take of platform was put by the one and only Kelsey <a href="https://x.com/kelseyhightower/status/1760712390252089518">here</a>.</p>
+<p>On the benefit of establishing platform engineering, there are already a bunch of blogposts that talks about this, and perhaps you already have enough. The question was, if it might seem obvious that platform engineering practices will bring benefits not only to the infrastructure team, but also to the devops culture, delivery and developer experience, and the whole software engineering field, then why do we just have this now and not earlier?</p>
+<ol>
+<li>
+<p>Product management has just reached its maturity state. The IT boom was not as old as we think and so does the science and art of how to build a software product. It started with the user-facing applications, which makes sense since it&rsquo;s what needed to keep the business afloart and the company running.</p>
+</li>
+<li>
+<p>In the past building software and maintaining it (operations) were used to be handled by 2 separate roles, the former by software engineer and the latter by sysadmin, which I am grateful of that we are past that era. And thanks to the growth of cloud computing field, we now are able to establish the DevOps culture of &ldquo;you build it you run it&rdquo; as coined by Werner Vogels. Even if we&rsquo;re getting better at handling infrastructure, most of the work are still being done ad-hoc without proper tracking and measurement through JIRA tickets and Slack messages which I think will easily burn infrastructure people out as it&rsquo;s not scalable, repetitive, it doesn&rsquo;t give a sense of achievement nor vision. Two of the articles that I really liked that talk about this was the &ldquo;Human scalability of DevOps&rdquo; by Matt Klein <a href="https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a">here</a> and &ldquo;Everyone is not Ops&rdquo; by Cindy Sridharan (copyconstruct) <a href="https://copyconstruct.medium.com/the-death-of-ops-is-greatly-exaggerated-ff3bd4a67f24">here</a>.</p>
+</li>
+<li>
+<p>We just got the abstraction matured recently, which is the building block needed to be able to make thing that we call platform. Blob storage, DNS, compute engine, databases, and other abstractions through an API that is accessible for us to be used. Every part of the infrastructure could be weaved by us LEGO-like to cater to our company&rsquo;s custom usecase and needs.</p>
+</li>
+</ol>
+<p>Those three reasons in my opinion makes the reason of why platform engineering boomed the past few months and in the recent year. Companies has been building custom implementation of infrastructure engineering in their own companies and through open source communities and conferences, we are enabled to share knowledge between one another.</p>
+<p>One of the caveat is that what comes to mind when people talk mostly about platform engineering was mostly an Internal Developer Portal (or what is known as IDP). Or is it the only way to implement platform? I&rsquo;ll try to talk about this in the next post as the reflection on personally a year and a half building one and 4 year since the team started their first commit.</p>
+
+</content>
+<p>
+  
+  <a href="http://localhost:1313/blog/software/">#Software</a>
+  
+  <a href="http://localhost:1313/blog/devops/">#Devops</a>
+  
+  <a href="http://localhost:1313/blog/sre/">#Sre</a>
+  
+  <a href="http://localhost:1313/blog/platform/">#Platform</a>
+  
+</p>
+
+  </main>
+  <footer>
+</footer>
+
+    
+</body>
+
+</html>

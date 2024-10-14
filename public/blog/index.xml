@@ -7,14 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Wed, 10 Apr 2024 21:57:28 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 17:16:03 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1 Year in Infrastructure</title>
-      <link>http://localhost:1313/1-year-in-infrastructure/</link>
-      <pubDate>Wed, 10 Apr 2024 21:57:28 +0700</pubDate>
-      <guid>http://localhost:1313/1-year-in-infrastructure/</guid>
-      <description>This is a page about »1 Year in Infrastructure«.</description>
+      <title>Kubeday Australia 2024</title>
+      <link>http://localhost:1313/kubeday-australia-2024/</link>
+      <pubDate>Mon, 14 Oct 2024 17:16:03 +0700</pubDate>
+      <guid>http://localhost:1313/kubeday-australia-2024/</guid>
+      <description>DevOps and operations, SRE, Platform&#xA;Cindy Sridharan - Everyone is not Ops [link] Matt Klein - Human Scalability of DevOps [link] Alex Hidalgo, Andrew Clay Shafer - Hell is Other Platforms [link] Tanya Reilly - Being Glue [link] Lorin Hochstein - Making Operational Work More Visible [link] Infrastructure engineering&#xA;Will Larson - How to Invest in Technical Infrastructure [link] Will Larson - Product Management in Infrastructure Engineering [link] Platform Engineering</description>
+    </item>
+    <item>
+      <title>Kubeday Singapore 2023</title>
+      <link>http://localhost:1313/kubeday-singapore-2023/</link>
+      <pubDate>Mon, 14 Oct 2024 17:15:03 +0700</pubDate>
+      <guid>http://localhost:1313/kubeday-singapore-2023/</guid>
+      <description>TBA</description>
+    </item>
+    <item>
+      <title>Kubecon North America 2023</title>
+      <link>http://localhost:1313/kubecon-north-america-2023/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kubecon-north-america-2023/</guid>
+      <description>TBA</description>
+    </item>
+    <item>
+      <title>Teaching Internal Devops Bootcamp</title>
+      <link>http://localhost:1313/teaching-internal-devops-bootcamp/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching-internal-devops-bootcamp/</guid>
+      <description>TBA</description>
+    </item>
+    <item>
+      <title>How might you platform</title>
+      <link>http://localhost:1313/how-might-you-platform/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how-might-you-platform/</guid>
+      <description>This is some observation that I got on the practices that either infrastructure people that is going to start the journey in platform engineering or for people that have been practicing for a while that is looking for some lesson-learned from other companies. Will keep this list alive for a while in case there are new ones that I got.&#xA;Proper width of abstraction&#xA;Premature optimization is the root of all evil.</description>
+    </item>
+    <item>
+      <title>Platform: why now?</title>
+      <link>http://localhost:1313/platform-why-now/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/platform-why-now/</guid>
+      <description>Platform engineering has taken the infrastructure community by the storm in the recent days. Various talks on the recent KubeCons are mostly all about platform, on par with talks on AI. And as all hype should be, I am usually on the more skeptic side and I believe we should&amp;rsquo;ve taken them more objectively, not as is. Even though that I am currently working on the infrastructure and platform on day-to-day basis, I can really understand the POV of the people that are skeptic on this one and I believe that both gave really good perspectives on their corresponding point of views so it results in a healthy discussion in the community.</description>
+    </item>
+    <item>
+      <title>Leveraging in Software Team</title>
+      <link>http://localhost:1313/leveraging-in-software-team/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/leveraging-in-software-team/</guid>
+      <description>All the best people that I had pleasure working with on my professional journey both have the same characteristic.&#xA;They leverage/support/sponsor others from where they&amp;rsquo;re positioned. This position that I am referring to apply to both level-wise (managerial (manager, director), or even Individual Contributor (architect)), or role-wise (QA, product manager, designer, engineer, SRE).&#xA;There are various occasion that prompt me to write about this one but it was definitely the great coworkers around me that I am grateful of.</description>
+    </item>
+    <item>
+      <title>1 Year in Infrastructure and Developer {Tooling,Efficiency,Productivity}</title>
+      <link>http://localhost:1313/1-year-in-infrastructure-and-developer-toolingefficiencyproductivity/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/1-year-in-infrastructure-and-developer-toolingefficiencyproductivity/</guid>
+      <description>Back in my previous company, I felt stuck. I was in a team where there were various features being built that it wasn&amp;rsquo;t used even once after being pushed to production, and I think it&amp;rsquo;s on the weirder case since it was an internal tooling team expected to be used by other operations coworkers so I thought that this kind of problem should have a lesser chance to exist in the first place because we are in the closer proximity to the users.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
