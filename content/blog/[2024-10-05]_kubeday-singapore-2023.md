@@ -1,13 +1,13 @@
 +++
-title = "Teaching Internal Devops Bootcamp"
-date = "2024-10-02"
+title = "Kubeday Singapore 2023"
+date = "2024-10-14T17:15:03+07:00"
 
 #
 # description is optional
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = ["devops","infrastructure","bootcamp"]
+tags = ["kubernetes","kubeday","community","infrastructure"]
 +++
 
 TBA
